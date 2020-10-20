@@ -2,7 +2,7 @@
 
 Stance Detection of a tweet author against a given topic using transfer learning and fine tuned a pre-trained large BERT model
 
-# INTRODUCTION
+## INTRODUCTION
 Social media platform like Facebook, discussion forums and especially Twitter have been widely used by people to express their opinion towards certain topics. Stance is the attitude the author has towards the topic which can be a person, government, organization or event. Tweet Stance Classification is the task of classify tweets posted on social media whether the tweets are in the favour, against or neutral for the given target which can be a person, a government, a company or anything. This classification task is different from sentiment analysis where we try to determine whether the text is positive, negative or neutral based up on the choice of the language used which can be either positive or negative. A tweet who is in favor of one target can be expressing stance against another target. For example, 
 Target: Hillary Clinton
 My vote is for Hillary Clinton. I can’t trust a businessman @HillaryClinton
